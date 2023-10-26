@@ -1,0 +1,16 @@
+Website:- Website is a collection of text pages, Digital images, Audios, Videos etc.
+
+WWW :- WWW stands for World Wide Web.It's a global server and known as web. It is a collection of websites, webpages and webservers.
+       It is connect local computer through the internet.
+
+HTTP/HTTPS :- Hyper Text Transfer Protocol
+	      Hyper Text Transfer Protocol Secure :- Basically it's secure your website
+
+Client Server :- Client is who can raise a request and server is who can receive request from the client
+
+Domain :- domain name is the text that a user types into a browser window 
+         to reach a particular website. For eg:- the domain name for Google is ‘google.com’
+
+Host :- Host is computer or a device which can communicate or entertain with other devices through the internet.
+
+Hosting :- 
