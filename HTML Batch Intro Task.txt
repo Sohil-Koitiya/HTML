@@ -1,16 +1,81 @@
-Website:- Website is a collection of text pages, Digital images, Audios, Videos etc.
+Website:- A website is a collection of many web pages, and web pages are digital files that are written using HTML(HyperText Markup Language).
+	  To make your website available to every person in the world, it must be stored or hosted on a computer connected to the Internet round a clock. 
+	  Such computers are known as a Web Server.The website’s web pages are linked with hyperlinks and hypertext and share a common interface and design.
+	  The website might also contain some additional documents and files such as images, videos, or other digital assets.
+	  With the Internet invading every sphere, we see websites for all kinds of causes and purposes. 
+	  So, we can also say that a website can also be thought of as a digital environment capable of delivering information and solutions and promoting 
+	  interaction between people, places, and things to support the goals of the organization it was created for.
 
 WWW :- WWW stands for World Wide Web.It's a global server and known as web. It is a collection of websites, webpages and webservers.
        It is connect local computer through the internet.
 
 HTTP/HTTPS :- Hyper Text Transfer Protocol
 	      Hyper Text Transfer Protocol Secure :- Basically it's secure your website
+	The Hypertext Transfer Protocol (HTTP) is another key component of the WWW. 
+	It enables users to access web pages by standardizing communications and data transfer between the internet's servers and clients.
 
-Client Server :- Client is who can raise a request and server is who can receive request from the client
+Client Server :- Client is who can raise a request and server is who can receive request from the client.
+	Client-server denotes a relationship between cooperating programs in an application, composed of clients 
+	initiating requests for services and servers providing that function or service.
 
-Domain :- domain name is the text that a user types into a browser window 
-         to reach a particular website. For eg:- the domain name for Google is ‘google.com’
+Domain :-  With an Internet address or name, a domain or domain name is the location of a website. 
+	For example, the domain name "google.com" points to the IP address "216.58.216.164". 
+	Generally, it's easier to remember a name rather than a long string of numbers. A domain name contains a maximum of sixty three characters, 
+	with one character minimum, and is entered after the protocol in the URL (uniform resource locator), as shown in the following example.
 
-Host :- Host is computer or a device which can communicate or entertain with other devices through the internet.
+Host :- any computer connected to a network. It can provide information, applications or services to other hosts or nodes on the network. 
+	Some examples include, but are not limited to, computers, personal electronic devices, thin clients, and multi-functional devices.
+	On a TCP/IP network, each host has a number that, together with a network identity, forms its own unique IP address. 
+	In the Open Systems Interconnection (OSI) model, protocols in the transport layer, also known as Layer 4, are responsible for communication between hosts. 
+	They use various protocols to communicate, including transmission control protocol (TCP) and User Datagram Protocol (UDP).
 
-Hosting :- 
+	There are various hosts:->
+	1)Wen Host
+	2)Cloud Host
+	3)Virtual Host
+	4)Remote Host
+	5)Host Name
+
+Hosting :- Hosting is the location where the website is physically located. Group of webpages (linked webpages) 
+	licensed to be called a website only when the webpage is hosted on the webserver. The webserver is a set of files transmitted to user 
+	computers when they specify the website’s address.
+
+FTP :- The term file transfer protocol (FTP) refers to a process that involves the transfer of files between devices over a network. 
+	The process works when one party allows another to send or receive files over the Internet. 
+	Originally used as a way for users to communicate and exchange information between two physical devices, 
+	it is now commonly used to store files in the cloud, which is usually a secure location that is held and accessed remotely.
+
+	FTP may be used by a business or individual to transfer files from one computer system to another or by websites to upload or download files 
+	from their servers.
+
+Path :- A path is a string of characters used to uniquely identify a location in a directory structure. 
+	It is composed by following the directory tree hierarchy in which components, separated by a delimiting character, represent each directory.
+	The delimiting character is most commonly the slash ("/"), the backslash character ("\"), or colon (":"), 
+	though some operating systems may use a different delimiter. Paths are used extensively in computer science to represent the directory/file relationships 
+	common in modern operating systems and are essential in the construction of Uniform Resource Locators (URLs).
+
+Extension :- The extension is a three- or four-letter abbreviation that signifies the file type. 
+	For example, in letter. docx the filename is letter and the extension is docx. 
+	Extensions are important because they tell your computer what icon to use for the file, and what application can open the file.
+
+Editor/VSCode :- Editors or text editors are software programs that enable the user to create and edit text files. 
+	In the field of programming, the term editor usually refers to source code editors that include many special features for writing and editing code. 
+	Notepad, Wordpad are some of the common editors used on Windows OS
+
+URL-URI/URN
+URL :- URL, in full Uniform Resource Locator, compact string of numbers, letters, and symbols that a computer uses to find a resource on a network and act upon it. 
+	URLs are often colloquially referred to as Web addresses, or simply addresses, since Web pages are the most common resources that users employ URLs to find.
+
+URI :- A Uniform Resource Identifier (URI) is a unique sequence of characters that identifies a logical or physical resource used by web technologies. 
+	URIs may be used to identify anything, including real-world objects, such as people and places, concepts, 
+	or information resources such as web pages and books.
+
+URN :- A Uniform Resource Name (URN) is a Uniform Resource Identifier (URI) that uses the urn scheme. 
+	URNs are globally unique persistent identifiers assigned within defined namespaces so they will be available for a long period of time, 
+	even after the resource which they identify ceases to exist or becomes unavailable.
+
+Address Bar :- The address bar is the familiar text field at the top of a web browser's graphical user interface (GUI) that displays the name or 
+	the URL (uniform resource locator) of the current web page. Users request websites and pages by typing either the name or the URL into the address bar.
+
+Title Bar :- The title bar is a horizontal bar located at the top of a window in a GUI (graphical user interface). 
+	It displays the title of the software, name of the current document or file, or other text identifying the contents of that window.
